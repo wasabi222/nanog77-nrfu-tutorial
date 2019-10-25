@@ -1,6 +1,6 @@
 # Network Ready for Use - Test Automation
 
-Network Ready for Use (NRFU) testing ansers the question:
+Network Ready for Use (NRFU) testing anwsers the question:
 
 _*Does the actual operating states of the network match the expected outcomes based on the design?*_
 
@@ -38,7 +38,7 @@ cd offline-demo
 ```
 
 This will run the tests for this repository, but you will see the output of the test-cases running
-agaist fake data.  For more details, refer to the [offline-demo README.md](offline-demo/README.md).
+against fake data.  For more details, refer to the [offline-demo README.md](offline-demo/README.md).
 
 # Online Demo
 
